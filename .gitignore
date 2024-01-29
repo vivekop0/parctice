@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore logs and temporary files
+/logs/
+/temp/
